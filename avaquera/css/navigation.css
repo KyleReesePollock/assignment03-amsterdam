@@ -1,0 +1,35 @@
+.main-menu ul {
+	margin: 0;
+	padding-left: 10px; 
+	list-style-type: none;
+}
+
+
+.main-menu li {
+    display: inline-block;
+}
+
+
+.main-menu a {
+	display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+	text-decoration: none;
+    color: white;
+    font-size: 20px;
+    background: black;
+}
+
+
+.main-menu a:hover {
+	color: #141a4e; 
+	background-color: #ffffff;
+}
+
+
+.main-menu a.is-current {
+	color: black; 
+    background-color: rgb(192, 188, 188);
+}
