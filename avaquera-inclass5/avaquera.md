@@ -62,6 +62,7 @@ The most popular traditional musical instrument, the guitar, originated in Spain
 Spanish cuisine consists of a great variety of dishes which stem from differences in geography, culture and climate. It is heavily influenced by seafood available from the waters that surround the country, and reflects the country's deep Mediterranean roots. Spain's extensive history with many cultural influences has led to a unique cuisine. In particular, three main divisions are easily identified:
 
 ![Paella, a traditional Valencian dish](media/spain-paella.jpg)
+*Paella, a traditional Valencian dish*
 
 Mediterranean Spain – all such coastal regions, from Catalonia to Andalusia – heavy use of seafood, such as pescaíto frito (fried fish); several cold soups like gazpacho; and many rice-based dishes like paella from Valencia and arròs negre (black rice) from Catalonia.
 
@@ -124,6 +125,7 @@ Since the late 20th century there is a growing interest of composers to write op
 In 2005, Mexico presented the candidature of its gastronomy for World Heritage Site of UNESCO, being the first occasion in which a country had presented its gastronomic tradition for this purpose.However, in a first instance the result was negative, because th committee did not place the proper emphasis on the importance of corn in Mexican cuisine. Finally, on November 16 of 2010 Mexican gastronomy was recognized as Intangible cultural heritage by UNESCO.
 
 ![Mole sauce, which has dozens of varieties across the Republic, is seen as a symbol of Mexicanidad and is considered Mexico's national dish.](media/mexico-mole.jpg)
+*Mole sauce, which has dozens of varieties across the Republic, is seen as a symbol of Mexicanidad and is considered Mexico's national dish.*
 
 The origin of the current Mexican cuisine is established during the Spanish colonization, being a mixture of the foods of Spain and the native indigenous. Of foods originated in Mexico is the corn, the pepper vegetables (together with Central and South America), calabazas (together with the Americas), avocados, sweet potato (together with Central and South America), the turkey (together with the Americas) and other fruits and spices. Other Indigenous products are many beans. Similarly, some cooking techniques used today are inherited from pre-Hispanic peoples, such as the nixtamalization of corn, the cooking of food in ovens at ground level, grinding in molcajete and metate. With the Spaniards came the pork, beef and chicken meats; peppercorn, sugar, milk and all its derivatives, wheat and rice, citrus fruits and another constellation of ingredients that are part of the daily diet of Mexicans.
 
