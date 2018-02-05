@@ -6,7 +6,7 @@ February 5, 2018
 
 
 
-## Spain
+# Spain
 Culturally, Spain is a Western country. Almost every aspect of Spanish life is permeated by its Roman heritage, making Spain one of the major Latin countries of Europe. Spanish culture is marked by strong historic ties to Catholicism, which played a pivotal role in the country's formation and subsequent identity. Spanish art, architecture, cuisine, and music has been shaped by successive waves of foreign invaders, as well as by the country's Mediterranean climate and geography. The centuries-long colonial era globalised Spanish language and culture, with Spain also absorbing the cultural and commercial products of its diverse empire.
 
 ### Literature
