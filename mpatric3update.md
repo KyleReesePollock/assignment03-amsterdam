@@ -10,9 +10,9 @@
 
 In my opinion, the three most delicious and versatile **vegetables** in the world are Zucchini, Cauliflower, and Carrots. All three can be made into the delicious base of a nice vegan meal. Zucchini makes a healthy and tasty pasta substitute when spiralized. Cauliflower can be shredded with a food processor into a substitute for white rice. And carrots can be crinkle cut and baked into healthy french fries. In this way, all of these vegetables are healthy but disguise themselves as carbs, allowing people to satisfy their need for junk food while still getting veggies. And that's a beautiful thing.
 
-###Zucchini
+### Zucchini
 
-####History
+#### History
 
 [![CSA-Striped-Zucchini.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CSA-Striped-Zucchini.jpg/250px-CSA-Striped-Zucchini.jpg)](https://en.wikipedia.org/wiki/File:CSA-Striped-Zucchini.jpg)
 
@@ -20,18 +20,18 @@ Zucchini, like all [squash](https://en.wikipedia.org/wiki/Squash_(plant)), has i
 
 The word *zucchini* and this culinary variety of *C. pepo* arose independently and simultaneously in 19th-century Tuscany and northern Italy.[[9\]](https://en.wikipedia.org/wiki/Zucchini#cite_note-9) *Zucca* is the [Italian](https://en.wikipedia.org/wiki/Italian_language) word for pumpkin/squash and *zucchino*/*zucchina* (*zucca* + *ina* = little) are diminutive forms, becoming *zucchini*/*zucchine* in the plural. *Zucchino*, the masculine form (*zucchini* in the plural), is the first form to be documented in writing.[[3\]](https://en.wikipedia.org/wiki/Zucchini#cite_note-crusca-3) An Italian dictionary called *lo Zingarelli 2015, Zanichelli Editore*, gives both forms, as does the *Devoto-Oli*published by Le Monnier, but the [Accademia della Crusca](https://en.wikipedia.org/wiki/Accademia_della_Crusca), the most important research institution on Italian language, defines *zucchino* as the preferable form.[[3\]](https://en.wikipedia.org/wiki/Zucchini#cite_note-crusca-3) The Treccani, Istituto dell'Enciclopedia italiana, another highly respected linguistic authority, gives *zucchina* as the main Italian word, and the masculine form as Tuscan dialect. *Zucchini* is used in Italy, Australia, Canada, Germany, Sweden and the United States. Zucchini is one of the plural forms in English (along with zucchinis), as well as the singular form.[[10\]](https://en.wikipedia.org/wiki/Zucchini#cite_note-webster-10)
 
-####Culinary Uses
+#### Culinary Uses
 
 When used for food, zucchini are usually picked when under 20 cm (8 in) in length, when the [seeds](https://en.wikipedia.org/wiki/Seed) are still soft and immature. Mature zucchini can be a metre long or more. The larger ones are often fibrous. A zucchini with the flowers attached is a sign of a truly fresh and immature fruit, and it is especially sought after for its sweeter flavor.[[12\]](https://en.wikipedia.org/wiki/Zucchini#cite_note-oneill-12)
 
 Unlike [cucumber](https://en.wikipedia.org/wiki/Cucumber), zucchini is usually served cooked. It can be prepared using a variety of cooking techniques, including steamed, boiled, grilled, [stuffed](https://en.wikipedia.org/wiki/Stuffed_zucchini) and baked, barbecued, fried, or incorporated in other recipes such as *soufflés*. Zucchini can also be baked into a bread[[13\]](https://en.wikipedia.org/wiki/Zucchini#cite_note-13) similar to [banana bread](https://en.wikipedia.org/wiki/Banana_bread) or incorporated into a cake mix. Its [flowers](https://en.wikipedia.org/wiki/Flower) can be eaten stuffed and are a delicacy when deep fried, as *tempura*.
 
 
-###Cauliflower
+### Cauliflower
 
 [![Cauliflower.JPG](https://upload.wikimedia.org/wikipedia/commons/2/25/Cauliflower.JPG)](https://en.wikipedia.org/wiki/File:Cauliflower.JPG)
 
-####History
+#### History
 
 In the 1st century AD, [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder) included what he called *cyma* among his descriptions of cultivated plants in *Natural History*: "*Ex omnibus brassicae generibus suavissima est cyma,*"[[3\]](https://en.wikipedia.org/wiki/Cauliflower#cite_note-3) ("Of all the varieties of cabbage the most pleasant-tasted is *cyma*").[[4\]](https://en.wikipedia.org/wiki/Cauliflower#cite_note-4) Pliny's descriptions likely refer to the flowering heads of an earlier cultivated variety of *Brassica oleracea*, but comes close to describing modern cauliflower.[[5\]](https://en.wikipedia.org/wiki/Cauliflower#cite_note-5) It is found in the writings of the Arab botanists [Ibn al-'Awwam](https://en.wikipedia.org/wiki/Ibn_al-%27Awwam) and [Ibn al-Baitar](https://en.wikipedia.org/wiki/Ibn_al-Baitar), in the 12th and 13th centuries when its origins were said to be Cyprus.[[6\]](https://en.wikipedia.org/wiki/Cauliflower#cite_note-AggieHorticulture-6)[[7\]](https://en.wikipedia.org/wiki/Cauliflower#cite_note-7)
 
@@ -41,7 +41,7 @@ In the 1st century AD, [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder) in
 
 In 2014, global production of cauliflowers (combined for production reports with [broccoli](https://en.wikipedia.org/wiki/Broccoli)) was 24.2 million [tonnes](https://en.wikipedia.org/wiki/Tonne), an 8% increase over 2013 world production.[[18\]](https://en.wikipedia.org/wiki/Cauliflower#cite_note-fao14-18) China and India together accounted for 74% of the total (table).[[18\]](https://en.wikipedia.org/wiki/Cauliflower#cite_note-fao14-18) Secondary producers, having 0.5–1.2 million tonnes annually, were the United States, Spain, Mexico and Italy.[[18\]](https://en.wikipedia.org/wiki/Cauliflower#cite_note-fao14-18)
 
-###Carrot
+### Carrot
 
 #### History
 
@@ -53,7 +53,7 @@ The plant is depicted and described in the [Eastern Roman](https://en.wikipedia.
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Carrots_of_many_colors.jpg/220px-Carrots_of_many_colors.jpg)
 
-#####Origin
+##### Origin
 
 The plant was introduced into Spain by the [Moors](https://en.wikipedia.org/wiki/Moors)in the 8th century.[[14\]](https://en.wikipedia.org/wiki/Carrot#cite_note-Krech_2004-14) In the 10th century, roots from West Asia, India and Europe were purple.[[15\]](https://en.wikipedia.org/wiki/Carrot#cite_note-Purple-15) The modern carrot originated in [Afghanistan](https://en.wikipedia.org/wiki/Afghanistan) at about this time.[[9\]](https://en.wikipedia.org/wiki/Carrot#cite_note-Simon_p._328-9) The 11th-century Jewish scholar [Simeon Seth](https://en.wikipedia.org/wiki/Simeon_Seth) describes both red and yellow carrots,[[16\]](https://en.wikipedia.org/wiki/Carrot#cite_note-Dalby_2003-16) as does the 12th-century Arab-[Andalusian](https://en.wikipedia.org/wiki/Andalusian_people) agriculturist, [Ibn al-'Awwam](https://en.wikipedia.org/wiki/Ibn_al-%27Awwam).[[17\]](https://en.wikipedia.org/wiki/Carrot#cite_note-Staub_2010-17)Cultivated carrots appeared in China in the 14th century, and in Japan in the 18th century.[[9\]](https://en.wikipedia.org/wiki/Carrot#cite_note-Simon_p._328-9)
 
