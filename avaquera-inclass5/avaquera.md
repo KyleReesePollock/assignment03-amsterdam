@@ -61,8 +61,6 @@ The most popular traditional musical instrument, the guitar, originated in Spain
 ### Cuisine
 Spanish cuisine consists of a great variety of dishes which stem from differences in geography, culture and climate. It is heavily influenced by seafood available from the waters that surround the country, and reflects the country's deep Mediterranean roots. Spain's extensive history with many cultural influences has led to a unique cuisine. In particular, three main divisions are easily identified:
 
-![Paella, a traditional Valencian dish]{media/spain-paella.jpg}
-
 Mediterranean Spain – all such coastal regions, from Catalonia to Andalusia – heavy use of seafood, such as pescaíto frito (fried fish); several cold soups like gazpacho; and many rice-based dishes like paella from Valencia and arròs negre (black rice) from Catalonia.
 
 Inner Spain – Castile – hot, thick soups such as the bread and garlic-based Castilian soup, along with substantious stews such as cocido madrileño. Food is traditionally conserved by salting, like Spanish ham, or immersed in olive oil, like Manchego cheese.
