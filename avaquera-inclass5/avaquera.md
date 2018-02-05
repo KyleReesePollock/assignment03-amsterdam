@@ -4,7 +4,7 @@ Ana Vaquera
 In-Class Exercise 5  
 February 5, 2018  
 
-
+This website concentrates on three different countries Spain, Mexico and Ecuador. These three countries, apart from the fact that they are all countries, also share the commonality that the majority of their population speaks Spanish. The official language for these three countries is Spanish, although in Ecuador they recognize Kichwa, Shuar and other indigenous languages. The reason these three countries were chosen was not only for their language but their share in culture. In many ways their culture can be considered similar especially when it concerns sports, for instance soccer, or football, plays an importance in each country.
 
 ## Spain
 Culturally, Spain is a Western country. Almost every aspect of Spanish life is permeated by its Roman heritage, making Spain one of the major Latin countries of Europe. Spanish culture is marked by strong historic ties to Catholicism, which played a pivotal role in the country's formation and subsequent identity. Spanish art, architecture, cuisine, and music has been shaped by successive waves of foreign invaders, as well as by the country's Mediterranean climate and geography. The centuries-long colonial era globalised Spanish language and culture, with Spain also absorbing the cultural and commercial products of its diverse empire.
