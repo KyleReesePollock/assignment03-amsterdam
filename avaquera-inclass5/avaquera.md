@@ -171,6 +171,9 @@ Ecuador's Amerindian communities are integrated into the mainstream culture to v
 ### Literature
 Early literature in colonial Ecuador, as in the rest of Spanish America, was influenced by the Spanish Golden Age. One of the earliest examples is Jacinto Collahuazo, an Amerindian chief of a northern village in today's Ibarra, born in the late 1600s. Despite the early repression and discrimination of the native people by the Spanish, Collahuazo learned to read and write in Castilian, but his work was written in Quechua. The use of Quipu was banned by the Spanish, and in order to preserve their work, many Inca poets had to resort to the use of the Latin alphabet to write in their native Quechua language. The history behind the Inca drama "Ollantay", the oldest literary piece in existence for any Amerindian language in America, shares some similarities with the work of Collahuazo. Collahuazo was imprisoned and all of his work burned. The existence of his literary work came to light many centuries later, when a crew of masons was restoring the walls of a colonial church in Quito and found a hidden manuscript. The salvaged fragment is a Spanish translation from Quechua of the "Elegy to the Dead of Atahualpa", a poem written by Collahuazo, which describes the sadness and impotence of the Inca people of having lost their king Atahualpa.
 
+![Centro de Arte Contemporáneo, Quito](ecuador-lit.jpg)  
+*Centro de Arte Contemporáneo, Quito*
+
 Other early Ecuadorian writers include the Jesuits Juan Bautista Aguirre, born in Daule in 1725, and Father Juan de Velasco, born in Riobamba in 1727. De Velasco wrote about the nations and chiefdoms that had existed in the Kingdom of Quito (today Ecuador) before the arrival of the Spanish. His historical accounts are nationalistic, featuring a romantic perspective of precolonial history.
 
 Famous authors from the late colonial and early republic period include Eugenio Espejo, a printer and main author of the first newspaper in Ecuadorian colonial times; Jose Joaquin de Olmedo (born in Guayaquil), famous for his ode to Simón Bolívar titled Victoria de Junin; Juan Montalvo, a prominent essayist and novelist; Juan Leon Mera, famous for his work "Cumanda" or "Tragedy among Savages" and the Ecuadorian National Anthem; Juan A. Martinez with A la Costa';, Dolores Veintimilla; and others.
@@ -187,9 +190,6 @@ The music of Ecuador has a long history. Pasillo is a genre of indigenous Latin 
 
 ### Cuisine
 Ecuadorian cuisine is diverse, varying with the altitude and associated agricultural conditions. Most regions in Ecuador follow the traditional three course meal of soup, a course that includes rice and a protein, and then dessert and coffee to finish. Supper is usually lighter and sometimes consists only of coffee or herbal tea with bread.
-
-![Ecuadorian ceviche, made of shrimp, lemon, onions, and some herbs. Tomato sauce and orange are used at some places but do not form a part of the basic recipe](ecuador-ceviche.jpeg)  
-*Ecuadorian ceviche, made of shrimp, lemon, onions, and some herbs. Tomato sauce and orange are used at some places but do not form a part of the basic recipe*
 
 In the highland region, pork, chicken, beef, and cuy (guinea pig) are popular and are served with a variety of grains (especially rice and corn) or potatoes.
 
