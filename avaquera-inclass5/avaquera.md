@@ -61,6 +61,8 @@ The most popular traditional musical instrument, the guitar, originated in Spain
 ### Cuisine
 Spanish cuisine consists of a great variety of dishes which stem from differences in geography, culture and climate. It is heavily influenced by seafood available from the waters that surround the country, and reflects the country's deep Mediterranean roots. Spain's extensive history with many cultural influences has led to a unique cuisine. In particular, three main divisions are easily identified:
 
+![Paella, a traditional Valencian dish](media/spain-paella.jpg)
+
 Mediterranean Spain – all such coastal regions, from Catalonia to Andalusia – heavy use of seafood, such as pescaíto frito (fried fish); several cold soups like gazpacho; and many rice-based dishes like paella from Valencia and arròs negre (black rice) from Catalonia.
 
 Inner Spain – Castile – hot, thick soups such as the bread and garlic-based Castilian soup, along with substantious stews such as cocido madrileño. Food is traditionally conserved by salting, like Spanish ham, or immersed in olive oil, like Manchego cheese.
@@ -120,6 +122,8 @@ Since the late 20th century there is a growing interest of composers to write op
 
 ### Cuisine
 In 2005, Mexico presented the candidature of its gastronomy for World Heritage Site of UNESCO, being the first occasion in which a country had presented its gastronomic tradition for this purpose.However, in a first instance the result was negative, because th committee did not place the proper emphasis on the importance of corn in Mexican cuisine. Finally, on November 16 of 2010 Mexican gastronomy was recognized as Intangible cultural heritage by UNESCO.
+
+![Mole sauce, which has dozens of varieties across the Republic, is seen as a symbol of Mexicanidad and is considered Mexico's national dish.](media/mexico-mole.jpg)
 
 The origin of the current Mexican cuisine is established during the Spanish colonization, being a mixture of the foods of Spain and the native indigenous. Of foods originated in Mexico is the corn, the pepper vegetables (together with Central and South America), calabazas (together with the Americas), avocados, sweet potato (together with Central and South America), the turkey (together with the Americas) and other fruits and spices. Other Indigenous products are many beans. Similarly, some cooking techniques used today are inherited from pre-Hispanic peoples, such as the nixtamalization of corn, the cooking of food in ovens at ground level, grinding in molcajete and metate. With the Spaniards came the pork, beef and chicken meats; peppercorn, sugar, milk and all its derivatives, wheat and rice, citrus fruits and another constellation of ingredients that are part of the daily diet of Mexicans.
 
@@ -181,6 +185,8 @@ The music of Ecuador has a long history. Pasillo is a genre of indigenous Latin 
 
 ### Cuisine
 Ecuadorian cuisine is diverse, varying with the altitude and associated agricultural conditions. Most regions in Ecuador follow the traditional three course meal of soup, a course that includes rice and a protein, and then dessert and coffee to finish. Supper is usually lighter and sometimes consists only of coffee or herbal tea with bread.
+
+![Ecuadorian ceviche, made of shrimp, lemon, onions, and some herbs. Tomato sauce and orange are used at some places but do not form a part of the basic recipe](ecuador-ceviche.jpg)
 
 In the highland region, pork, chicken, beef, and cuy (guinea pig) are popular and are served with a variety of grains (especially rice and corn) or potatoes.
 
