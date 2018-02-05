@@ -1,8 +1,8 @@
 Different Cultures of Countries
 =======
-Ana Vaquera
-In-Class Exercise 5
-February 5, 2018
+Ana Vaquera  
+In-Class Exercise 5  
+February 5, 2018  
 
 
 
