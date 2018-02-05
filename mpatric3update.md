@@ -1,6 +1,6 @@
 # Vegetables
 
-##*Meghan Patrick*
+## *Meghan Patrick*
 
 **In-class Assignment 5** 
 
