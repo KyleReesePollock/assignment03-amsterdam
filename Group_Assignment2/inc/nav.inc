@@ -4,13 +4,13 @@
 					<a href="index.php">Home</a>
 				</li>
 				<li>
-					<a href="MPAbout.php">Meghan Patrick</a>
+					<a href="mp-about.php">Meghan Patrick</a>
 				</li>
 				<li>
-					<a href="AVAbout.php">Ana Vaquera</a>
+					<a href="av-about.php">Ana Vaquera</a>
 				</li>
 				<li>
-					<a href="AWAbout.php">Amber Williams</a>
+					<a href="aw-about.php">Amber Williams</a>
 				</li>
 
 
