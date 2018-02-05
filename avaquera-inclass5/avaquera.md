@@ -188,7 +188,7 @@ The music of Ecuador has a long history. Pasillo is a genre of indigenous Latin 
 ### Cuisine
 Ecuadorian cuisine is diverse, varying with the altitude and associated agricultural conditions. Most regions in Ecuador follow the traditional three course meal of soup, a course that includes rice and a protein, and then dessert and coffee to finish. Supper is usually lighter and sometimes consists only of coffee or herbal tea with bread.
 
-![Ecuadorian ceviche, made of shrimp, lemon, onions, and some herbs. Tomato sauce and orange are used at some places but do not form a part of the basic recipe](ecuador-ceviche.jpg)  
+![Ecuadorian ceviche, made of shrimp, lemon, onions, and some herbs. Tomato sauce and orange are used at some places but do not form a part of the basic recipe](ecuador-ceviche.jpeg)  
 *Ecuadorian ceviche, made of shrimp, lemon, onions, and some herbs. Tomato sauce and orange are used at some places but do not form a part of the basic recipe*
 
 In the highland region, pork, chicken, beef, and cuy (guinea pig) are popular and are served with a variety of grains (especially rice and corn) or potatoes.
