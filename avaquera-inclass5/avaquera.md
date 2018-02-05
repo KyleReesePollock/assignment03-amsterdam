@@ -38,8 +38,6 @@ The two main writers in the second half of the 20th century were the Nobel Prize
 
 The Generation of '50 are also known as the children of the civil war. Rosa Chacel, Gloria Fuertes, Jaime Gil de Biedma, Juan Goytisolo, Carmen Martín Gaite, Ana María Matute, Juan Marsé, Blas de Otero, Gabriel Celaya, Antonio Gamoneda, Rafael Sánchez Ferlosio or Ignacio Aldecoa.
 
-Premio Planeta de Novela and Miguel de Cervantes Prize are the two main awards nowadays in Spanish literature.
-
 ### Art
 Artists from Spain have been highly influential in the development of various European and American artistic movements. Due to historical, geographical and generational diversity, Spanish art has known a great number of influences. The Mediterranean heritage with Greco-Roman and some Moorish and influences in Spain, especially in Andalusia is still evident today. European influences include Italy, Germany and France, especially during the Renaissance Spanish Baroque and Neoclassical periods. There are many other autochthonous styles such as the Pre-Romanesque art and architecture, Herrerian architecture or the Isabelline Gothic.
 
