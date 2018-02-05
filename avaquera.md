@@ -6,7 +6,7 @@ February 5, 2018
 
 
 
-# Spain
+## Spain
 Culturally, Spain is a Western country. Almost every aspect of Spanish life is permeated by its Roman heritage, making Spain one of the major Latin countries of Europe. Spanish culture is marked by strong historic ties to Catholicism, which played a pivotal role in the country's formation and subsequent identity. Spanish art, architecture, cuisine, and music has been shaped by successive waves of foreign invaders, as well as by the country's Mediterranean climate and geography. The centuries-long colonial era globalised Spanish language and culture, with Spain also absorbing the cultural and commercial products of its diverse empire.
 
 ### Literature
@@ -40,7 +40,7 @@ The Generation of '50 are also known as the children of the civil war. Rosa Chac
 
 Premio Planeta de Novela and Miguel de Cervantes Prize are the two main awards nowadays in Spanish literature.
 
-Art
+### Art
 Artists from Spain have been highly influential in the development of various European and American artistic movements. Due to historical, geographical and generational diversity, Spanish art has known a great number of influences. The Mediterranean heritage with Greco-Roman and some Moorish and influences in Spain, especially in Andalusia is still evident today. European influences include Italy, Germany and France, especially during the Renaissance Spanish Baroque and Neoclassical periods. There are many other autochthonous styles such as the Pre-Romanesque art and architecture, Herrerian architecture or the Isabelline Gothic.
 
 During the Golden Age we find painters such as El Greco, José de Ribera, Bartolomé Esteban Murillo and Francisco Zurbarán. Also inside Baroque period Diego Velázquez created some of the most famous Spanish portraits, like Las Meninas or Las Hilanderas.
@@ -49,18 +49,16 @@ Francisco Goya painted during a historical period that includes the Spanish Inde
 
 Joaquín Sorolla is a well-known impressionist painter and there are many important Spanish painters belonging to the modernism art movement, including Pablo Picasso, Salvador Dalí, Juan Gris and Joan Miró.
 
-Music and dance
+### Music and Dance
 Spanish music is often considered abroad to be synonymous with flamenco, a West Andalusian musical genre, which, contrary to popular belief, is not widespread outside that region. Various regional styles of folk music abound in Aragon, Catalonia, Valencia, Castile, the Basque Country, Galicia, Cantabria and Asturias. Pop, rock, hip hop and heavy metal are also popular.
 
 In the field of classical music, Spain has produced a number of noted composers such as Isaac Albéniz, Manuel de Falla and Enrique Granados and singers and performers such as Plácido Domingo, José Carreras, Montserrat Caballé, Alicia de Larrocha, Alfredo Kraus, Pablo Casals, Ricardo Viñes, José Iturbi, Pablo de Sarasate, Jordi Savall and Teresa Berganza. In Spain there are over forty professional orchestras, including the Orquestra Simfònica de Barcelona, Orquesta Nacional de España and the Orquesta Sinfónica de Madrid. Major opera houses include the Teatro Real, the Gran Teatre del Liceu, Teatro Arriaga and the El Palau de les Arts Reina Sofía.
 
 Thousands of music fans also travel to Spain each year for internationally recognised summer music festivals Sónar which often features the top up and coming pop and techno acts, and Benicàssim which tends to feature alternative rock and dance acts.[208] Both festivals mark Spain as an international music presence and reflect the tastes of young people in the country.
 
-Vitoria-Gasteiz jazz festival is one of the main ones on its genre.
-
 The most popular traditional musical instrument, the guitar, originated in Spain.[209] Typical of the north are the traditional bag pipers or gaiteros, mainly in Asturias and Galicia.
 
-Cuisine
+### Cuisine
 Spanish cuisine consists of a great variety of dishes which stem from differences in geography, culture and climate. It is heavily influenced by seafood available from the waters that surround the country, and reflects the country's deep Mediterranean roots. Spain's extensive history with many cultural influences has led to a unique cuisine. In particular, three main divisions are easily identified:
 
 Mediterranean Spain – all such coastal regions, from Catalonia to Andalusia – heavy use of seafood, such as pescaíto frito (fried fish); several cold soups like gazpacho; and many rice-based dishes like paella from Valencia and arròs negre (black rice) from Catalonia.
@@ -69,7 +67,7 @@ Inner Spain – Castile – hot, thick soups such as the bread and garlic-based 
 
 Atlantic Spain – the whole Northern coast, including Asturian, Basque, Cantabrian and Galician cuisine – vegetable and fish-based stews like caldo gallego and marmitako. Also, the lightly cured lacón ham. The best known cuisine of the northern countries often rely on ocean seafood, like the Basque-style cod, albacore or anchovy or the Galician octopus-based polbo á feira and shellfish dishes.
 
-Sport
+### Sport
 While varieties of football had been played in Spain as far back as Roman times, sport in Spain has been dominated by English style association football since the early 20th century. Real Madrid C.F. and FC Barcelona are two of the most successful football clubs in the world. The country's national football team won the UEFA European Football Championship in 1964, 2008 and 2012 and the FIFA World Cup in 2010, and is the first team to ever win three back-to-back major international tournaments.
 
 Basketball, tennis, cycling, handball, futsal, motorcycling and, lately, Formula One are also important due to the presence of Spanish champions in all these disciplines. Today, Spain is a major world sports powerhouse, especially since the 1992 Summer Olympics that were hosted in Barcelona, which stimulated a great deal of interest in sports in the country. The tourism industry has led to an improvement in sports infrastructure, especially for water sports, golf and skiing.
@@ -83,12 +81,12 @@ Mexican culture reflects the complexity of the country's history through the ble
 
 The Porfirian era (el Porfiriato), in the last quarter of the 19th century and the first decade of the 20th century, was marked by economic progress and peace. After four decades of civil unrest and war, Mexico saw the development of philosophy and the arts, promoted by President Díaz himself. Since that time, as accentuated during the Mexican Revolution, cultural identity has had its foundation in the mestizaje, of which the indigenous (i.e. Amerindian) element is the core. In light of the various ethnicities that formed the Mexican people, José Vasconcelos in his publication La Raza Cósmica (The Cosmic Race) (1925) defined Mexico to be the melting pot of all races (thus extending the definition of the mestizo) not only biologically but culturally as well.
 
-Literature
+### Literature
 Mexican literature has its antecedents in the literatures of the indigenous settlements of Mesoamerica. The most well known prehispanic poet is Nezahualcoyotl. Modern Mexican literature was influenced by the concepts of the Spanish colonialization of Mesoamerica. Outstanding colonial writers and poets include Juan Ruiz de Alarcón and Juana Inés de la Cruz.
 
 Other writers include Alfonso Reyes, José Joaquín Fernández de Lizardi, Ignacio Manuel Altamirano, Carlos Fuentes, Octavio Paz (Nobel Laureate), Renato Leduc, Carlos Monsiváis, Elena Poniatowska, Mariano Azuela ("Los de abajo") and Juan Rulfo ("Pedro Páramo"). Bruno Traven wrote "Canasta de cuentos mexicanos" (Mexican tales basket), "El tesoro de la Sierra Madre" (Treasure of the Sierra Madre).
 
-Art
+### Art
 The painting is one of the oldest arts in Mexico. The cave painting in Mexican territory is about 7500 years old, and has been manifested in the caves of the Baja California Peninsula. Pre-Hispanic Mexico is present in buildings and caves, in Aztec codices, in ceramics, in garments, etc. .; examples of this are the Maya mural paintings of Bonampak, or those of Teotihuacán, those of Cacaxtla and those of Monte Albán.
 
 The mural painting had an important flowering during the 16th century, the same in religious constructions as in houses of lineage; such is the case of the convents of Acolman, Actopan, Huejotzingo, Tecamachalco and Zinacantepec. It is said that they were mainly indigenous painters led by friars who made them. These were also manifested in illustrated manuscripts such as the Matrícula de Tributos.
@@ -103,24 +101,24 @@ Some of the most outstanding painters in the 21st century (current painters): Pa
 
 Throughout history several prominent painters of different nationalities have expressed in their works the face of Mexico. Among the most outstanding we can mention Daniel Thomas Egerton, Carl Nebel, Thomas Moran, Édouard Manet and Leonora Carrington.
 
-Music and dance
+### Music and Dance
 Mexican society enjoys a vast array of music genres, showing the diversity of Mexican culture. Traditional music includes mariachi, banda, norteño, ranchera and corridos; on an everyday basis most Mexicans listen to contemporary music such as pop, rock, etc. in both English and Spanish. Mexico has the largest media industry in Latin America, producing Mexican artists who are famous in Central and South America and parts of Europe, especially Spain.
 
 Some well-known Mexican singers are Thalía, Luis Miguel, Juan Gabriel, Alejandro Fernández, Julieta Venegas, Gloria Trevi and Paulina Rubio. Mexican singers of traditional music are: Lila Downs, Susana Harp, Jaramar, GEO Meneses and Alejandra Robles. Popular groups are Café Tacuba, Caifanes, Molotov, Panda and Maná, among others. Since the early years of the 2000s (decade), Mexican rock has seen widespread growth both domestically and internationally.
 
 According to the Sistema Nacional de Fomento Musical, there are between 120 and 140 youth orchestras affiliated to this federal agency from all federal states.[citation needed] Some states, through their state agencies in charge of culture and the arts—Ministry or Secretary or Institute or Council of Culture, or in some cases the Secretary of Education or the State University—sponsor the activities of a professional symphony orchestra or philharmonic orchestra so all citizens can have access to this artistic expression from the field of classical music. Mexico City is the most intense hub of this activity, hosting 12 professional orchestras sponsored by different agencies such as the National Institute of Fine Arts, the Secretary of Culture of the Federal District, The National University, the National Polytechnic Institute, a Delegación Política (Coyoacán) and private ventures.
 
-Folk music
+#### Folk music
 Mexican music is the result of diverse influences. Very little is known about Pre-Hispanic music, although there are many groups that claim that tradition throughout the country. The Danza del Venado, of the Yaqui Indians of Sonora and Mayos of Sonora and Sinaloa, is one of the few testimonies of Pre-Hispanic music that have persisted to this day, both in its instrumentation and in the lyrics; although there are also records of the sones of the custom of other ethnic groups such as the Tének of San Luis Potosí and its Danza del tigrillo or the Huaves of Oaxaca and its Sones de la tortuga, etc. In the Pre-Columbian towns, the only stringed instrument used was the percussion arch and the music was more rhythmic and creative of atmospheres than melodic. Also the eeneg (monochord), of the family of the chordophones, is used by the Komkaak. Among the instruments used were teponaztli and huehuetl, the former being an idiophone instrument and the latter an membranophone instrument; the ocarinas and flutes of mud or reed, scrapers of bone or wood, and rattles. After the arrival of the Spaniards, the natives learned European music from the missionaries. Many of the Conquest dances that are practiced in the indigenous communities of the country have their origin in that time; as well as certain genres associated with Catholic worship, such as Danza de Matachines and Son de Concheros, among others. In Tabasco, in the city of Tenosique, every year the carnival is celebrated, which many say is the rarest in the world, which begins with the Danza del Pochó . The endemic indigenous music was also strongly influenced by the dances of the slaves and the maroon black, something that is easier to appreciate in the music of the indigenous communities of Guerrero, Oaxaca, Chiapas and Tabasco, among others.
 
-Opera
+#### Opera
 In 1711 the opera La Parténope was premiered in Mexico City with music by Manuel de Sumaya, master of the cathedral chapel together with Francisco López Capillas and Juan Gutiérrez de Padilla, one of the greatest Mexican Baroque composers, the special importance of this opera is that it is the first one composed in North America, this opera gives beginning to the fertile and still little studied history of the Mexican operatic creation that has not been interrupted since then for three hundred years.
 
 The opera Guatemotzín, by Aniceto Ortega, is the first conscious attempt to incorporate native elements to the formal characteristics of the opera. Within the Mexican operatic production of the 19th century stand out the opera Agorante, rey de la Nubia of Miguel Meneses, premiered during the commemorative festivities for the birthday of the emperor Maximilian I of Mexico, the operas Pirro de Aragón by Leonardo Canales, Keofar by Felipe Villanueva and above all the operatic production of Melesio Morales, the most important Mexican composer of operas of the 19th century, whose works had great success among the public of Mexico City and which were released in Europe. In the first half of the 20th century they excel in the Mexican operatic creation Julián Carrillo, Sofía Cancino de Cuevas, José Fracisco Vásquez among others, all of them were relegated by the official musical historiography that he only recognized the work of nationalist composers.
 
 Since the late 20th century there is a growing interest of composers to write opera. Among the Mexican composers of the beginning of the 21st century who excel with their operas should be mentioned Federico Ibarra Groth, Daniel Catán, Víctor Rasgado, Luis Jaime Cortez, Julio Estrada, Gabriela Ortiz among others.
 
-Cuisine
+### Cuisine
 In 2005, Mexico presented the candidature of its gastronomy for World Heritage Site of UNESCO, being the first occasion in which a country had presented its gastronomic tradition for this purpose.However, in a first instance the result was negative, because th committee did not place the proper emphasis on the importance of corn in Mexican cuisine. Finally, on November 16 of 2010 Mexican gastronomy was recognized as Intangible cultural heritage by UNESCO.
 
 The origin of the current Mexican cuisine is established during the Spanish colonization, being a mixture of the foods of Spain and the native indigenous. Of foods originated in Mexico is the corn, the pepper vegetables (together with Central and South America), calabazas (together with the Americas), avocados, sweet potato (together with Central and South America), the turkey (together with the Americas) and other fruits and spices. Other Indigenous products are many beans. Similarly, some cooking techniques used today are inherited from pre-Hispanic peoples, such as the nixtamalization of corn, the cooking of food in ovens at ground level, grinding in molcajete and metate. With the Spaniards came the pork, beef and chicken meats; peppercorn, sugar, milk and all its derivatives, wheat and rice, citrus fruits and another constellation of ingredients that are part of the daily diet of Mexicans.
@@ -137,7 +135,7 @@ The torta are bocadillos made with telera bread and, like the tacos, various foo
 
 There are many beverages typical of Mexican cuisine: aguas frescas, atoles, chocolate, mezcal, tequila, wine, tepache, charanda, tejuino.
 
-Sports
+### Sports
 Mexico City hosted the XIX Olympic Games in 1968, making it the first Latin American city to do so. The country has also hosted the FIFA World Cup twice, in 1970 and 1986.
 
 Mexico's most popular sport is association football. It is commonly believed that football was introduced in Mexico by Cornish miners at the end of the 19th century. By 1902 a five-team league had emerged with a strong British influence. Mexico's top clubs are América with 12 championships, Guadalajara with 11, and Toluca with 10. Antonio Carbajal was the first player to appear in five World Cups, and Hugo Sánchez was named best CONCACAF player of the 20th century by IFFHS.
@@ -164,7 +162,7 @@ Since African slavery was not the workforce of the Spanish colonies in the Andes
 
 Ecuador's Amerindian communities are integrated into the mainstream culture to varying degrees, but some may also practice their own native cultures, particularly the more remote Amerindian communities of the Amazon basin. Spanish is spoken as the first language by more than 90% of the population and as a first or second language by more than 98%. Part of Ecuador's population can speak Amerindian languages, in some cases as a second language. Two percent of the population speak only Amerindian languages.
 
-Literature
+### Literature
 Early literature in colonial Ecuador, as in the rest of Spanish America, was influenced by the Spanish Golden Age. One of the earliest examples is Jacinto Collahuazo, an Amerindian chief of a northern village in today's Ibarra, born in the late 1600s. Despite the early repression and discrimination of the native people by the Spanish, Collahuazo learned to read and write in Castilian, but his work was written in Quechua. The use of Quipu was banned by the Spanish, and in order to preserve their work, many Inca poets had to resort to the use of the Latin alphabet to write in their native Quechua language. The history behind the Inca drama "Ollantay", the oldest literary piece in existence for any Amerindian language in America, shares some similarities with the work of Collahuazo. Collahuazo was imprisoned and all of his work burned. The existence of his literary work came to light many centuries later, when a crew of masons was restoring the walls of a colonial church in Quito and found a hidden manuscript. The salvaged fragment is a Spanish translation from Quechua of the "Elegy to the Dead of Atahualpa", a poem written by Collahuazo, which describes the sadness and impotence of the Inca people of having lost their king Atahualpa.
 
 Other early Ecuadorian writers include the Jesuits Juan Bautista Aguirre, born in Daule in 1725, and Father Juan de Velasco, born in Riobamba in 1727. De Velasco wrote about the nations and chiefdoms that had existed in the Kingdom of Quito (today Ecuador) before the arrival of the Spanish. His historical accounts are nationalistic, featuring a romantic perspective of precolonial history.
@@ -175,13 +173,13 @@ Contemporary Ecuadorian writers include the novelist Jorge Enrique Adoum; the po
 
 In spite of Ecuador's considerable mystique, it is rarely featured as a setting in contemporary western literature. One exception is "The Ecuadorian Deception," a murder mystery/thriller authored by American Bear Mills. In it, George d'Hout, a website designer from the United States is lured under false pretenses to Guayaquil. A corrupt American archaeologist is behind the plot, believing d'Hout holds the keys to locating a treasure hidden by a buccaneer ancestor. The story is based on a real pirate by the name of George d'Hout who terrorized Guayaquil in the 16th Century.
 
-Art
+### Art
 The best known art styles from Ecuador belonged to the Escuela Quiteña, which developed from the 16th to 18th centuries, examples of which are on display in various old churches in Quito. Ecuadorian painters include Eduardo Kingman, Oswaldo Guayasamín, and Camilo Egas from the Indiginist Movement; Manuel Rendon, Jaime Zapata, Enrique Tábara, Aníbal Villacís, Theo Constanté, Luis Molinari, Araceli Gilbert, Judith Gutierrez, Felix Arauz, and Estuardo Maldonado from the Informalist Movement; Teddy Cobeña from expressionism and figurative style and Luis Burgos Flor with his abstract, futuristic style. The Amerindian people of Tigua, Ecuador, are also world-renowned[citation needed] for their traditional paintings.
 
-Music and dance
+### Music and Dance
 The music of Ecuador has a long history. Pasillo is a genre of indigenous Latin music. In Ecuador it is the "national genre of music". Through the years, many cultures have brought their influences together to create new types of music. There are also different kinds of traditional music like albazo, pasacalle, fox incaico, tonada, capishca, Bomba (highly established in Afro-Ecuadorian societies), and so on. Tecnocumbia and Rockola are clear examples of the influence of foreign cultures. One of the most traditional forms of dancing in Ecuador is Sanjuanito. It's originally from northern Ecuador (Otavalo-Imbabura). Sanjuanito is a type of dance music played during festivities by the mestizo and Amerindian communities. According to the Ecuadorian musicologist Segundo Luis Moreno, Sanjuanito was danced by Amerindian people during San Juan Bautista's birthday. This important date was established by the Spaniards on June 24, coincidentally the same date when Amerindian people celebrated their rituals of Inti Raymi.
 
-Cuisine
+### Cuisine
 Ecuadorian cuisine is diverse, varying with the altitude and associated agricultural conditions. Most regions in Ecuador follow the traditional three course meal of soup, a course that includes rice and a protein, and then dessert and coffee to finish. Supper is usually lighter and sometimes consists only of coffee or herbal tea with bread.
 
 In the highland region, pork, chicken, beef, and cuy (guinea pig) are popular and are served with a variety of grains (especially rice and corn) or potatoes.
@@ -190,7 +188,7 @@ In the coastal region, seafood is very popular, with fish, shrimp, and ceviche b
 
 In the Amazon region, a dietary staple is the yuca, elsewhere called cassava. Many fruits are available in this region, including bananas, tree grapes, and peach palms.
 
-Sports
+### Sports
 The most popular sport in Ecuador, as in most South American countries, is football. Its best known professional teams include Liga De Quito from Quito; Emelec from Guayaquil; Deportivo Quito, and El Nacional from Quito; Olmedo from Riobamba; and Deportivo Cuenca from Cuenca. Currently the most successful football team in Ecuador is LDU Quito, and it is the only Ecuadorian team that has won the Copa Libertadores, the Copa Sudamericana, and the Recopa Sudamericana; they were also runners-up in the 2008 FIFA Club World Cup. The matches of the Ecuadorian national team are the most-watched sporting events in the country.[citation needed] Ecuador has qualified for the final rounds of the 2002, the 2006, & the 2014 FIFA World Cups. The 2002 FIFA World Cup qualifying campaign was considered a huge success for the country and its inhabitants. The unusually high elevation of the home stadium in Quito often affects the performance of visiting teams. Ecuador finished in 2nd place in the CONMEBOL qualifiers behind Argentina and above the team that would become World Champions, Brazil. In the 2006 FIFA World Cup, Ecuador finished ahead of Poland and Costa Rica finishing second behind Germany in Group A in the 2006 World Cup. They were defeated by England in the second round.
 
 Ecuador has won only two medals in the Olympic Games, both gained by 20-km (12 mi) racewalker Jefferson Pérez, who took gold in the 1996 games and silver 12 years later. Pérez also set a world best in the 2003 World Championships of 1:17:21 for the 20-km (12 mi) distance.
