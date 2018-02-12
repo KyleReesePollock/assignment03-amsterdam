@@ -3,7 +3,7 @@
     <body>
 
         <div class = "container">
-
+        <?php include "inc/header.inc";?>
         <?php include "inc/nav.inc"; ?>
         
         <h2>Ana Vaquera</h2>
@@ -77,7 +77,7 @@
                Of my darling—my darling—my life and my bride, <br/>
                In her sepulchre there by the sea— <br/>
                In her tomb by the sounding sea.</p>
-
+            <?php include "inc/footer.inc"; ?>
         </div>
         <?php include "inc/scripts.inc"; ?>
     </body>

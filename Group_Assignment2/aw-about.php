@@ -3,7 +3,7 @@
 <body>
 
 <div class = "container">
-
+<?php include "inc/header.inc";?>
 <?php include "inc/nav.inc"; ?>
 
 
@@ -50,7 +50,7 @@ This is by far my favorite photo I have ever taken. I love capturing simple yet 
 		<figcaption>My favorite photo.</figcaption>
         
 	</figure>
-
+	<?php include "inc/footer.inc"; ?>
 </div>
 <?php include "inc/scripts.inc"; ?>
 </body>

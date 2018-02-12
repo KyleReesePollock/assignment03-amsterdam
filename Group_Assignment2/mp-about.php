@@ -3,8 +3,8 @@
 	<body>
 
 	<div class= "container">
-
-<?php include "inc/nav.inc"; ?>
+	<?php include "inc/header.inc";?>
+	<?php include "inc/nav.inc"; ?>
 		
 		<h2> Meghan Patrick</h2>
 		
@@ -50,7 +50,7 @@
 				I traveled to many cities and towns throughout Spain including Barcelona, Toledo, Bilbao, San Sebastian, Sevilla, Valencia, Cordoba, Granada, Salamanca, Alcala de Henares, Burgos, and Vitoria-Gasteiz. I wanted to spend as much time as possible in Spain to fully absorb the language and culture, and learn as much as I could about the country. But, I also traveled to visit various friends who were also studying abroad and went on several trips with friends to other countries. I traveled to Portugal, Denmark, Ireland, the Netherlands, and Morocco. Overall it was an incredible journey and a dream come true. 
 			</p>
 
-
+<?php include "inc/footer.inc"; ?>
 	</div> <!--.container -->
 
 	<?php include "inc/scripts.inc"; ?>
