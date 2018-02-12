@@ -19,7 +19,7 @@
 	color: #3F4045;
 	background-color: #CED3DC;
 	background: linear-gradient(#FCFCFC, #87A0B2);
-	font-family: comic sans ms, georgia, garamond;
+	font-family: "Comic Sans MS", georgia, garamond;
 	vertical-align: top;
 }
 
@@ -30,7 +30,7 @@
 .amber {
 	color: #3F4045;
 	background-color: #CED3DC;
-	font-family: comic sans ms, georgia, garamond;
+	font-family: "Comic Sans MS", georgia, garamond;
 	background: linear-gradient(#87A0B2, #FCFCFC);
 }
 
@@ -41,7 +41,7 @@
 .ana {
 	color: #3F4045;
 	background-color: #CED3DC;
-	font-family: comic sans ms, georgia, garamond;
+	font-family: "Comic Sans MS", georgia, garamond;
 	background: linear-gradient(#87A0B2, #FCFCFC);
 }
 
@@ -52,7 +52,7 @@
 .meghan {
 	color: #3F4045;
 	background-color: #CED3DC;
-	font-family: comic sans ms, georgia, garamond;
+	font-family: "Comic Sans MS", georgia, garamond;
 	background: linear-gradient(#87A0B2, #FCFCFC);
 }
 
@@ -63,6 +63,7 @@
 @media (max-width: 700px){
 		.container {
 		display: block;
+		}
 }
 
 header, footer{
@@ -108,9 +109,12 @@ h1 {
     margin: auto;
 }
 
-figure {
+.firstfig, figure {
     align-content: center;
-    margin: auto;
+	margin: auto;
+	padding: 8px 8px 8px 20px;
+	float: right;
+	margin-left: 20px;
 }
 
 figcaption {
@@ -118,9 +122,6 @@ figcaption {
 	font-style: italic;
 }
 
-figure { 
-	padding: 8px 8px 8px 20px;
-}
 
 h2 { 
 	border-radius: 10px;
@@ -149,10 +150,6 @@ p:nth-child(3n) {
     	margin-bottom: 40px
 }
 
-figure { 
-		float: right;
-		margin-left: 20px;
-}
 
 ul, ol{ 	
 		padding-left: 40px;

@@ -27,7 +27,7 @@
 
  		<div class="ber">
 		<h2> Amber Willaims: Design Artist </h2>
-		<figure class="firstfig">
+			<figure class="firstfig">
 				<img src="images/favphoto.jpg" alt="favphoto">
 				<figcaption>My favorite photo.</figcaption>
 			</figure>
