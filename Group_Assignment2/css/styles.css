@@ -7,20 +7,63 @@
 
 .grid-container{
 	display: grid;
-	
 	grid-gap: 20px;
+}
+
+.titles {
+	text-align: center;
+	text-shadow: 2px 2px #EBBAB9;
+}
+
+.home {
+	color: #3F4045;
+	background-color: #CED3DC;
+	background: linear-gradient(#FCFCFC, #87A0B2);
+	font-family: comic sans ms, georgia, garamond;
+	vertical-align: top;
+}
+
+.home h2, h1 {
+	text-shadow: 1px 1px #EBBAB9
+}
+
+.amber {
+	color: #3F4045;
+	background-color: #CED3DC;
+	font-family: comic sans ms, georgia, garamond;
+	background: linear-gradient(#87A0B2, #FCFCFC);
+}
+
+.amber h1 {
+	text-shadow: 1px 1px #EBBAB9
+}
+
+.ana {
+	color: #3F4045;
+	background-color: #CED3DC;
+	font-family: comic sans ms, georgia, garamond;
+	background: linear-gradient(#87A0B2, #FCFCFC);
+}
+
+.ana h1 {
+	text-shadow: 1px 1px #EBBAB9
+}
+
+.meghan {
+	color: #3F4045;
+	background-color: #CED3DC;
+	font-family: comic sans ms, georgia, garamond;
+	background: linear-gradient(#87A0B2, #FCFCFC);
+}
+
+.meghan h1 {
+	text-shadow: 1px 1px #EBBAB9
 }
 
 @media (max-width: 700px){
 		.container {
-			display: block;
-		}
-	}
-
-
-
-body { 
-		background-color: #D1A7BE ;}
+		display: block;
+}
 
 header, footer{
 	grid-column: 1/2;
@@ -28,7 +71,8 @@ header, footer{
 	border-radius: 10px;
 	border: 2px groove #5E4955;
 	margin-left: -35px;
-	margin-right: -35px;}
+	margin-right: -35px;
+}
 
 .titles { 
 		color: #5E324B;
@@ -36,88 +80,88 @@ header, footer{
 		font-size: 20px;
 	}
 
-footer{text-align: center;}
-
-
-nav{
-	grid-column: 1/2
-	;
+footer {
+	text-align: center;
 }
 
 
-
+nav {
+	grid-column: 1/2;
+}
 
 .subtitle { 
-			font-size: 20px;
-			margin-top: 0px;
-			font-style: italic}
-
-
-figcaption {
-		text-align: center;
-
+	font-size: 20px;
+	margin-top: 0px;
+	font-style: italic
 }
 
-h1 {border-bottom: 1px solid;
+h1 {
+	border-bottom: 1px solid;
 	margin-top: 10px;
 	margin-bottom: 5px
 }
 
 
 .images { 
-	border: #404E4D;
+	border: #EBBAB9;
     display: block;
     margin: auto;
+}
 
-	}
-
-img {
-    display: block;
+figure {
+    align-content: center;
     margin: auto;
 }
 
 figcaption {
-		text-align: center;
-		font-style: italic;
+	text-align: center;
+	font-style: italic;
 }
-figure { 
-		padding: 8px 8px 8px 20px;
 
+figure { 
+	padding: 8px 8px 8px 20px;
 }
 
 h2 { 
-		border-radius: 10px;
-		margin-bottom: 15px;
-		padding-left: 20px;
-		color: #6D465C;}
+	border-radius: 10px;
+	margin-bottom: 1px;
+	padding-left: 20px;
+	color: #3F4045;
+}
 
 h3{
 	margin-left: 20px;
 }
 
 .lists {
-	color: black;
-	
+	color: #EBBAB9;
 	margin-top: 5px;
-	margin-bottom: 5px}
+	margin-bottom: 5px
+}
 
 
 p { 	
-		margin-top: 0px}
+		margin-top: 0px
+}
+
 
 p:nth-child(3n) {
-    	margin-bottom: 40px}
+    	margin-bottom: 40px
+}
 
 figure { 
 		float: right;
-		margin-left: 20px;}
+		margin-left: 20px;
+}
 
 ul, ol{ 	
 		padding-left: 40px;
-		color: black;}
+		color: black;
+}
 
 
 a {
-    	color: black;
-    	text-decoration: none;}
+    	color: white;
+    	text-decoration: none;
+}
 
