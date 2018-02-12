@@ -1,41 +1,59 @@
-<?php include "inc/html-top.inc";?>
-	<body>
-		<div class= "container">
+<?php include "inc/html-top.inc"; ?>
 
-		<?php include "inc/header.inc";?>
-		<?php include "inc/nav.inc";?>
+	<body class="home">
+		<link href="css/styles.css" rel="stylesheet" type="text/css">
 
-		<h1> Initial Roles </h1>
+	<div class= "container">
 
-		<div class="slider">
-        	<img src="images/abroad.jpg" alt="Meghan Patrick: study abraod">
-			<img src="images/favphoto.jpg" alt="Amber Williams: favorite photo">
-			<img src="images/toronto.jpg" alt="Ana Vaquera: Toronto, Canada">
-        </div>
+<?php include "inc/nav.inc"; ?>
+
 		
+		<h1> Initial Roles </h2>
+<div class="meg">
 		<h2> Meghan Patrick: Information Architect </h2>
-			<figure>
-				<img src="images/favphoto.jpg" alt="favphoto">
-				<figcaption>My favorite photo.</figcaption>
-			</figure>
-			<p> My initital role for this assignment is infromaiton architect. As information architect I must prepare all the content and how it's arranged within each page and across pages. Design the navigation and how it's presented in any browser type and size. Lead team collaboration (Github) and manage the file structure – unless there is a Backend Hacker on the team. I will be ensure that there are no usability problems. That the structure layer (content) is coded in HTML so it is arranged and accessible in a way that makes sense for the content. That content structure(HTML)meets industry standards and best practices including W3C HTML validation within reason and that the team is coordinated and effective.</p>
+		<h3> Responsibilities: </h3>
 
+				<ul class="lists">
+	  				<li>Prepares all the content and how it's arranged within each page and across pages</li>
+	  				<li>Designs the navigation and how it's presented in any browser type and size</li>
+	  				<li>Leads team collaboration (Github) and manages the file structure – unless
+there is a Backend Hacker on the team</li>
+				</ul>
+</div>
+
+<div class="ber">
 		<h2> Amber Willaims: Design Artist </h2>
-			<figure class="images">
-				<img src="images/abroad.jpg" alt="Portugal Pic" >
-				<figcaption>Sunset in Lisbon, Portugal</figcaption>
-			</figure>
-			<p>My initital role for this assignment is design artist. As the artist I am responsible for everything the user sees, in any browser type and size I decide the graphic design, colors, styles, fonts, layouts for any browser type and size. I will ensure that there are noreadability problems. That the presentation layer (styles) is coded in CSS so it is visually arranged a way that makes sense for the content and adds value to the structure layer. Also that styles (CSS) meet industry standards and best practices including W3C CSS validation within reason.</p>
+		<p>
+I've worked as a Digital Associate the past year for a small national student publication called The Rival. I'm the only design artist, so I design all the content weeks, advertisement and marketing strategy, the actual advertisments, and the publishing efforts. Basically, I'm the only one who can yell at the boss for sending corrupted files. We're currently going through a website transfer which I'm assiting with the design aspect.
+</p>
 
+<p>
+The Rival is small and centralized to mostly the east coast, but we have 13 universities such as GW, American, Tulane, Fordham, and C of C. There's even a Rival here at UR! One of our writers, who is now Director of Communications, actually broke the story regarding Eastman's housing crisis. Unfortunately, The Rival Rochester is phasing out since there's limited student interest in another student publication platform outside of Campus times.
+</p>
+
+<p>
+This is why I chose Design Artist as my first role. It’s a safer choice for me since I have experience designing. I don't have much experience designing a web-page with CSS, but I figured since I have the design chops, the coding chops can be learned as I go. I’ve very rusty with code and lingo since I took 170 about a year ago. I have all my notes, so I should be fine.
+</p>
+
+<p>
+Hopefully...
+</p>
+</div>
+
+<div class="an">
 		<h2> Ana Vaquera: Coder </h2>
-			<figure>
-				<img src="images/toronto.jpg" alt="Toronto, Canada">
-				<figcaption>Toronto, Canada</figcaption>
-			</figure>
-			<p>My initital role for this assignment is coder. As coder I will be responsible for everything the user interacts with, from page load to every click and scroll. Checks to make sure everything in the front-end (not just JavaScript but also HTML and CSS) must work and work well (optimized). Images must be correctly prepped (optimized). Decides the particulars of plug-in usage and installation, web font installation, and general optimization and usage of all front- end technologies. I will also be in charge of all server interactions using PHP and MySQL including the addition of all code in the HTML documents to handle the server-side interactions (server- side includes too). Responsible for the set up and manipulation of database(s). Leads team collaboration (Github) and manages the file structure.</p>
-        
-		<?php include "inc/footer.inc"; ?>
-		</div> <!--.container -->
-		<?php include "inc/scripts.inc"; ?>
+		<h3> Responsibilities: </h3>
+
+		<p>My initital role for this porject is coder. As coder I will be responsible for everything the user interacts with, from page load to every click and scroll. Checks to make sure everything in the front-end (not just JavaScript but also HTML and CSS) must work and work well (optimized). Images must be correctly prepped (optimized). Decides the particulars of plug-in usage and installation, web font installation, and general optimization and usage of all front- end technologies. I will also be in charge of all server interactions using PHP and MySQL including the addition of all code in the HTML documents to handle the server-side interactions (server- side includes too). Responsible for the set up and manipulation of database(s). Leads team collaboration (Github) and manages the file structure.</p>
+</div>
+
+
+
+
+<?php include "inc/footer.inc"; ?>
+	</div>
+	</div> <!--.container -->
+
+	<?php include "inc/scripts.inc"; ?>
 	</body>
 </html>
