@@ -68,9 +68,9 @@
 
 header, footer{
 	grid-column: 1/2;
-	background-color: #996888; 
+	background-color: #CED3DC; 
 	border-radius: 10px;
-	border: 2px groove #5E4955;
+	border: 2px groove #EBBAB9;
 	margin-left: -35px;
 	margin-right: -35px;
 }
@@ -79,6 +79,7 @@ header, footer{
 		color: #5E324B;
 		text-align: center;
 		font-size: 20px;
+		text-shadow: 2px 2px #87A0B2;
 	}
 
 footer {
