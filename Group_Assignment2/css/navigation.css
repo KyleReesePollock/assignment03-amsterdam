@@ -5,20 +5,21 @@
 	padding-left: 0; 
 }
 .menu li { 
-			display: inline-block;}
+	display: inline-block;
+}
 
 
-.menu { text-align: center; 
+.menu { 
+	text-align: center; 
 }
 
 .menu a { 
 	text-decoration: none;
-	color: #A87F96 ;
-	background-color: #6D465C;
+	color: #EBBAB9 ;
+	background-color: #CED3DC;
 	display: block;
-	border-radius: 10px;
+	border-radius: 8px;
 	padding: 5px 20px;
-
 }
 
 .menu a:hover {
@@ -26,15 +27,15 @@
 	background-color: #dddddd;
 }
 .menu a.is-current {
-	color: white; 
-	background-color: black;
+	color: #EBBAB9; 
+	background-color: #87A0B2;
 }
 
 @media(max-width:800px){
-	.menu li{
+	.menu li {
 		display: block;
 	}
-	.menu{
+	.menu {
 		margin-top: 30px;
 	}
 }
