@@ -1,13 +1,14 @@
 <?php include "inc/html-top.inc"; ?>
 
-<body>
+<body class="amber">
+	<link href="css/styles.css" rel="stylesheet" type="text/css">
 
 <div class = "container">
-<?php include "inc/header.inc";?>
+
 <?php include "inc/nav.inc"; ?>
 
 
-	<h2>Amber Williams</h2>
+	<h1>Amber Williams</h1>
 
  	<ul>
             <li>Major: English: LMC</li>
@@ -48,9 +49,9 @@ This is by far my favorite photo I have ever taken. I love capturing simple yet 
 	<figure>
 		<img src="images/favphoto.jpg" alt="favphoto">
 		<figcaption>My favorite photo.</figcaption>
-        
+  
 	</figure>
-	<?php include "inc/footer.inc"; ?>
+
 </div>
 <?php include "inc/scripts.inc"; ?>
 </body>
