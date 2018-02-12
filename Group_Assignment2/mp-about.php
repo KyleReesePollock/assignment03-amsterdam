@@ -1,12 +1,13 @@
 <?php include "inc/html-top.inc"; ?>
 
-	<body>
+	<body class="meghan">
+		<link href="css/styles.css" rel="stylesheet" type="text/css">
 
 	<div class= "container">
-	<?php include "inc/header.inc";?>
-	<?php include "inc/nav.inc"; ?>
+
+<?php include "inc/nav.inc"; ?>
 		
-		<h2> Meghan Patrick</h2>
+		<h1> Meghan Patrick </h1>
 		
 		<ul> 
 			<li>Major: Mechanical Engineering, Minor: Computer Science </li>
@@ -14,7 +15,7 @@
 			<li>Hometown: Freetown, MA </li>
 		</ul>
 
-			<h1>Work Experience</h1>
+			<h2>Work Experience</h2>
 			<h2>Harmonic</h2>
 				<p>
 							For my first internship, I worked on cable modem termination systems at Harmonic Inc. I developed and implemented engineering command line interface using Python for cable modem debug commands, in an effort to make back-end programming for efficient. I also integrated several different cable modem communication sources into one source to improve performance and usability. I utilized C++ to analyze and improve the system error logging protocol. Since error logs were challenging to sort through, I created a broader sorting mechanism to process errors in an effort to ease debug and error management. 	</p>
@@ -50,7 +51,7 @@
 				I traveled to many cities and towns throughout Spain including Barcelona, Toledo, Bilbao, San Sebastian, Sevilla, Valencia, Cordoba, Granada, Salamanca, Alcala de Henares, Burgos, and Vitoria-Gasteiz. I wanted to spend as much time as possible in Spain to fully absorb the language and culture, and learn as much as I could about the country. But, I also traveled to visit various friends who were also studying abroad and went on several trips with friends to other countries. I traveled to Portugal, Denmark, Ireland, the Netherlands, and Morocco. Overall it was an incredible journey and a dream come true. 
 			</p>
 
-<?php include "inc/footer.inc"; ?>
+
 	</div> <!--.container -->
 
 	<?php include "inc/scripts.inc"; ?>
