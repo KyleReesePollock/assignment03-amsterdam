@@ -17,25 +17,26 @@
 		
 		<div class="meg">
 		<h2> Meghan Patrick: Information Architect </h2>
-			<figure>
-				<img src="images/favphoto.jpg" alt="favphoto">
-				<figcaption>My favorite photo.</figcaption>
+			<figure class="images">
+				<img src="images/abroad.jpg" alt="Portugal Pic" >
+				<figcaption>Sunset in Lisbon, Portugal</figcaption>
 			</figure>
+			
 			<p> My initital role for this assignment is infromaiton architect. As information architect I must prepare all the content and how it's arranged within each page and across pages. Design the navigation and how it's presented in any browser type and size. Lead team collaboration (Github) and manage the file structure – unless there is a Backend Hacker on the team. I will be ensure that there are no usability problems. That the structure layer (content) is coded in HTML so it is arranged and accessible in a way that makes sense for the content. That content structure(HTML)meets industry standards and best practices including W3C HTML validation within reason and that the team is coordinated and effective.</p>
 		</div>
 
  		<div class="ber">
 		<h2> Amber Willaims: Design Artist </h2>
-			<figure class="images">
-				<img src="images/abroad.jpg" alt="Portugal Pic" >
-				<figcaption>Sunset in Lisbon, Portugal</figcaption>
+		<figure class="firstfig">
+				<img src="images/favphoto.jpg" alt="favphoto">
+				<figcaption>My favorite photo.</figcaption>
 			</figure>
 			<p>My initital role for this assignment is design artist. As the artist I am responsible for everything the user sees, in any browser type and size I decide the graphic design, colors, styles, fonts, layouts for any browser type and size. I will ensure that there are noreadability problems. That the presentation layer (styles) is coded in CSS so it is visually arranged a way that makes sense for the content and adds value to the structure layer. Also that styles (CSS) meet industry standards and best practices including W3C CSS validation within reason.</p>
 		</div>
 
 		<div class="an">
 		<h2> Ana Vaquera: Coder </h2>
-			<figure>
+			<figure class="firstfig">
 				<img src="images/toronto.jpg" alt="Toronto, Canada">
 				<figcaption>Toronto, Canada</figcaption>
 			</figure>
