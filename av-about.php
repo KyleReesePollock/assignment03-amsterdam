@@ -1,10 +1,10 @@
-<?php include "includes/html-top.inc";?>
+<?php include "includes/html-top.php";?>
 
 <body class="ana">
 
     <div class="container">
-        <?php include "includes/header.inc";?>
-        <?php include "includes/nav.inc";?>
+        <?php include "includes/header.php";?>
+        <?php include "includes/nav.php";?>
 
         <h1>Ana Vaquera</h1>
 
@@ -115,10 +115,10 @@
             <br/>    Of my darling—my darling—my life and my bride,
             <br/>    In her sepulchre there by the sea—
             <br/>    In her tomb by the sounding sea.</p>
-        <?php include "includes/footer.inc"; ?>
+        <?php include "includes/footer.php"; ?>
     </div>
     <!--.container -->
-    <?php include "includes/scripts.inc"; ?>
+    <?php include "includes/scripts.php"; ?>
 </body>
 
 </html>

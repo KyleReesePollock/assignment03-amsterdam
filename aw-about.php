@@ -1,10 +1,10 @@
-<?php include "includes/html-top.inc"; ?>
+<?php include "includes/html-top.php"; ?>
 
 <body class="amber">
 
 	<div class="container">
-		<?php include "includes/header.inc";?>
-		<?php include "includes/nav.inc"; ?>
+		<?php include "includes/header.php";?>
+		<?php include "includes/nav.php"; ?>
 
 
 		<h1>Amber Williams</h1>
@@ -80,10 +80,10 @@
 					<figcaption>My favorite photo.</figcaption>
 
 				</figure>
-				<?php include "includes/footer.inc"; ?>
+				<?php include "includes/footer.php"; ?>
 	</div>
 	<!--.container -->
-	<?php include "includes/scripts.inc"; ?>
+	<?php include "includes/scripts.php"; ?>
 </body>
 
 

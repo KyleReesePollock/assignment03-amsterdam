@@ -1,10 +1,10 @@
-<?php include "includes/html-top.inc";?>
+<?php include "includes/html-top.php";?>
 
 <body class="home">
 	<div class="container">
 
-		<?php include "includes/header.inc";?>
-		<?php include "includes/nav.inc";?>
+		<?php include "includes/header.php";?>
+		<?php include "includes/nav.php";?>
 
 		<div class="hero">
 			<h1> Initial Roles </h1>
@@ -67,10 +67,10 @@
 			</p>
 		</div>
 
-		<?php include "includes/footer.inc"; ?>
+		<?php include "includes/footer.php"; ?>
 	</div>
 	<!--.container -->
-	<?php include "includes/scripts.inc"; ?>
+	<?php include "includes/scripts.php"; ?>
 </body>
 
 </html>

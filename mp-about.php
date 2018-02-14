@@ -1,10 +1,10 @@
-<?php include "includes/html-top.inc"; ?>
+<?php include "includes/html-top.php"; ?>
 
 <body class="meghan">
 
 	<div class="container">
-		<?php include "includes/header.inc";?>
-		<?php include "includes/nav.inc"; ?>
+		<?php include "includes/header.php";?>
+		<?php include "includes/nav.php"; ?>
 
 		<h1> Meghan Patrick</h1>
 
@@ -74,11 +74,11 @@
 			to Portugal, Denmark, Ireland, the Netherlands, and Morocco. Overall it was an incredible journey and a dream come true.
 		</p>
 
-		<?php include "includes/footer.inc"; ?>
+		<?php include "includes/footer.php"; ?>
 	</div>
 	<!--.container -->
 
-	<?php include "includes/scripts.inc"; ?>
+	<?php include "includes/scripts.php"; ?>
 </body>
 
 </html>
