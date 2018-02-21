@@ -1,4 +1,10 @@
-<?php include "includes/html-top.php";?>
+<?php 
+
+$page = "Home";
+
+include "includes/html-top.php";
+
+?>
 
 <body class="home">
 	<div class="container">

@@ -1,19 +1,13 @@
-			<nav class="menu">
-			<ul>
-				<li>
-					<a href="index.php">Home</a>
-				</li>
-				<li>
-					<a href="mp-about.php">Meghan Patrick</a>
-				</li>
-				<li>
-					<a href="av-about.php">Ana Vaquera</a>
-				</li>
-				<li>
-					<a href="aw-about.php">Amber Williams</a>
-				</li>
-
-
-			</ul>
-
-			</nav>
+<nav class="navbar">
+	<ul>
+		<li>
+			<a href="fiona.php">Fiona Jones</a>
+		</li>
+		<li>
+			<a href="ana.php">Ana Vaquera</a>
+		</li>
+		<li>
+			<a href="amber.php">Amber Williams</a>
+		</li>
+	</ul>
+</nav>

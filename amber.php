@@ -15,7 +15,6 @@
 			<li>Hometown: Weatherford, Texas </li>
 		</ul>
 
-
 		<p>
 			I'm a Junior, but I graduate in December 2018. Currently freaking out about graduating so soon. I originally was a Neuroscience
 			and math double major on the Pre-Med track. I decided I hated being stuck in a lab freshman year. So, I experimented with
@@ -78,7 +77,6 @@
 				<figure>
 					<img src="images/favphoto.jpg" alt="favphoto">
 					<figcaption>My favorite photo.</figcaption>
-
 				</figure>
 				<?php include "includes/footer.php"; ?>
 	</div>
