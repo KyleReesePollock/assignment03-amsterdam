@@ -7,6 +7,11 @@ figure {
 	float: right;
 }
 
+.about img {
+	max-height: 133px;
+	width: auto;
+}
+
 .container {
 	margin: 0 auto;
 	max-width: 1000px;

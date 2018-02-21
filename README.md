@@ -7,3 +7,7 @@ Forked from https://github.com/mpatric3/inclass04-amsterdam
 * Zubair Aziz - Information Architect
 * Jame Fazio - Design Artist
 * Kyle Pollock - Coder
+
+## Role of the Information Architect
+
+* Format the information retrieved from the
