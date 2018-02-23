@@ -6,6 +6,8 @@ include "includes/html-top.php";
 
 ?>
 
+<!-- Start of index/home page. Similarity between students is that their all from Texas  -->
+
 <body>
 	<div class="container">
 
@@ -17,10 +19,13 @@ include "includes/html-top.php";
 		
 		?>
 
+		<!-- This will be where we put our JS component. (TBD what we'll put here) -->
+
+		<!-- Each "about me" is currently followed by an image. I'll need to find a better image for all of em, or remove em completely -->
 		<div>
 			<h2>Fiona Jones</h2>
 			<figure class="images">
-				<img src="images/abroad.jpg" alt="Portugal Pic">
+				<img src="images/fiona.jpg" alt="Portugal Pic">
 				<figcaption>Sunset in Lisbon, Portugal</figcaption>
 			</figure>
 
@@ -37,7 +42,7 @@ include "includes/html-top.php";
 		<div>
 			<h2>Ana Vaquera</h2>
 			<figure class="firstfig">
-				<img src="images/toronto.jpg" alt="Toronto, Canada">
+				<img src="images/soccer.jpg" alt="Toronto, Canada">
 				<figcaption>Toronto, Canada</figcaption>
 			</figure>
 			<p>My initital role for this assignment is coder. As coder I will be responsible for everything the user interacts with,

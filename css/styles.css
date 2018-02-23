@@ -16,11 +16,34 @@ figure {
 	margin: 0 auto;
 	max-width: 1000px;
 	padding: 2em;
-	display: grid;
 }
 
+/* template for CSS Grid layout */
+/* .grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-areas: "";
+}
+
+.header {
+	grid-area: header;
+}
+
+.navbar {
+	grid-area: navbar;
+}
+
+.about {
+	grid-area: about;
+}
+
+.content {
+	grid-area: content;
+}
+
+.footer {
+	grid-area: footer; 
+} */
+
 @media (max-width: 640px) {
-	.container {
-		display: block;
-	}
 }

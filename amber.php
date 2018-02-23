@@ -7,7 +7,7 @@ include "includes/html-top.php";
 ?>
 
 <body>
-	<div class="container">
+	<div class="container grid">
 
 		<?php 
 		
@@ -17,10 +17,8 @@ include "includes/html-top.php";
 		
 		?>
 
-
-		<h2>Amber Williams</h2>
-
 		<div class="about">
+			<h2>Amber Williams</h2>
 			<h3>About</h3>
 			<ul>
 				<li>Major: English: LMC</li>
@@ -51,7 +49,7 @@ include "includes/html-top.php";
 
 		</div>
 
-		<article>
+		<article class="content">
 
 			<h3>Education</h3>
 
