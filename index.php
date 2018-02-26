@@ -19,14 +19,14 @@ include "includes/html-top.php";
 		
 		?>
 
-		<!-- This will be where we put our JS component. (TBD what we'll put here) -->
+		<!-- This will be where we put our JS component. We have a couple pictures of Texas to switch between -->
 
 		<!-- Each "about me" is currently followed by an image. I'll need to find a better image for all of em, or remove em completely -->
 		<div>
 			<h2>Fiona Jones</h2>
 			<figure class="images">
 				<img src="images/fiona.jpg" alt="Portugal Pic">
-				<figcaption>Sunset in Lisbon, Portugal</figcaption>
+				<figcaption>Fiona Jones</figcaption>
 			</figure>
 
 			<p> My name is Fiona Jones and I am currently a junior in my third year at Rochester. I am currently majoring in computer
@@ -45,13 +45,13 @@ include "includes/html-top.php";
 				<img src="images/soccer.jpg" alt="Toronto, Canada">
 				<figcaption>Toronto, Canada</figcaption>
 			</figure>
-			<p>My initital role for this assignment is coder. As coder I will be responsible for everything the user interacts with,
-				from page load to every click and scroll. Checks to make sure everything in the front-end (not just JavaScript but also
-				HTML and CSS) must work and work well (optimized). Images must be correctly prepped (optimized). Decides the particulars
-				of plug-in usage and installation, web font installation, and general optimization and usage of all front- end technologies.
-				I will also be in charge of all server interactions using PHP and MySQL including the addition of all code in the HTML
-				documents to handle the server-side interactions (server- side includes too). Responsible for the set up and manipulation
-				of database(s). Leads team collaboration (Github) and manages the file structure.
+			<p>I like to spend time watching shows and reading. Currently I am watching the Grey’s Anatomy, a show about the main character
+				Meredith Grey who works in a hospital in Seattle, Washington. The show is about the people who work in the hospital and
+				what they go through in and outside the hospital. As for reading my favorite book is Catcher in the Rye. The book is
+				a 1951 novel by J. D. Salinger. It is about the main character Holden Caulfield, a teenager from New York City, is living
+				in an unspecified institution in southern California near Hollywood in 1951. Caulfield intends to live with his brother
+				D.B, an author and World War II veteran whom Holden resents for becoming a screenwriter, after his release in one month.
+				As he waits, Holden recalls the events of the previous Christmas.
 				<a href="ana.php"> Read More</a>
 			</p>
 		</div>
@@ -62,11 +62,10 @@ include "includes/html-top.php";
 				<img src="images/favphoto.jpg" alt="new york">
 				<figcaption>New York City</figcaption>
 			</figure>
-			<p>My initital role for this assignment is design artist. As the artist I am responsible for everything the user sees, in
-				any browser type and size I decide the graphic design, colors, styles, fonts, layouts for any browser type and size.
-				I will ensure that there are noreadability problems. That the presentation layer (styles) is coded in CSS so it is visually
-				arranged a way that makes sense for the content and adds value to the structure layer. Also that styles (CSS) meet industry
-				standards and best practices including W3C CSS validation within reason.
+			<p>I love photography and art, but I am very shy about sharing them. I have designed several merchandises for clubs the past
+				3 years. My advisor gets upset because I refuse to put my signature on them. I just prefer to internally shriek with
+				happiness when I see my designs on people's laptops or around campus. I have hearing issues, so I sometimes have look
+				at people's lips to make sure I am hearing things correctly.
 				<a href="amber.php"> Read More</a>
 			</p>
 		</div>
