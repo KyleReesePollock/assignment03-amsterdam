@@ -9,19 +9,24 @@ include "includes/html-top.php";
 <!-- Start of index/home page. Similarity between students is that their all from Texas  -->
 
 <body>
-	<div class="container">
-
-		<?php 
-		
-		include "includes/header.php";
+	<?php 
 		
 		include "includes/nav.php";
-		
-		?>
+		include "includes/header.php";
+
+	?>
+
+	<div class="head">
+		<h1> Assignment 3: Updated Team Portfolio </h1>
+		<h2>Texans by Team Amsterdam</h2>
+	</div>
+
+	<div class="container">
 
 		<!-- This will be where we put our JS component. We have a couple pictures of Texas to switch between -->
 
 		<!-- Each "about me" is currently followed by an image. I'll need to find a better image for all of em, or remove em completely -->
+
 		<div>
 			<h2>Fiona Jones</h2>
 			<figure class="images">
@@ -69,10 +74,9 @@ include "includes/html-top.php";
 				<a href="amber.php"> Read More</a>
 			</p>
 		</div>
-
-		<?php include "includes/footer.php"; ?>
 	</div>
 	<!--.container -->
+	<?php include "includes/footer.php"; ?>
 	<?php include "includes/scripts.php"; ?>
 </body>
 
