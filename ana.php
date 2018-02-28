@@ -7,18 +7,22 @@ include "includes/html-top.php";
 ?>
 
 <body>
-    <div class="container grid">
 
-        <?php 
-		
-		include "includes/header.php";
-		
-		include "includes/nav.php";
-		
-        ?>
+    <?php 
+        
+        include "includes/nav.php";
+        include "includes/header.php";
 
-        <div class="about">
+    ?>
+
+    <div class="head">
             <h2>Ana Vaquera</h2>
+
+            <figure>
+                <img src="images/soccer.jpg" alt="Soccer Ball">
+                <figcaption>My favorite sport is soccer.</figcaption>
+            </figure>
+
             <h3>About</h3>
 
             <ul>
@@ -26,11 +30,6 @@ include "includes/html-top.php";
                 <li>Year: Junior</li>
                 <li>Hometown: Dallas, Texas </li>
             </ul>
-
-            <figure>
-                <img src="images/soccer.jpg" alt="Soccer Ball">
-                <figcaption>My favorite sport is soccer.</figcaption>
-            </figure>
 
             <p>For my free time I like to spend time watching shows and reading. Currently I am watching the Grey’s Anatomy,
                 a show about the main character Meredith Grey who works in a hospital in Seattle, Washington. The show is
@@ -42,6 +41,8 @@ include "includes/html-top.php";
                 Holden recalls the events of the previous Christmas. My favorite poem is Annabel Lee by Edgar Allan Poe:</p>
 
         </div>
+
+    <div class="container grid">
 
         <article class="content">
 
@@ -88,10 +89,10 @@ include "includes/html-top.php";
                 of engineering, I feel that there are a lot of grad programs that combine business and engineering well.</p>
 
         </article>
-        <?php include "includes/footer.php"; ?>
     </div>
     <!--.container -->
     <?php include "includes/scripts.php"; ?>
+    <?php include "includes/footer.php"; ?>
 </body>
 
 </html>
