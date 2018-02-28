@@ -1,3 +1,3 @@
 <header class="header">
-	<h1><a href="index.php">Texans</a></h1>
+	<div><a href="index.php" class="title">Texans</a></div>
 </header>
