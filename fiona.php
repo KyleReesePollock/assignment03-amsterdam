@@ -20,7 +20,7 @@ include "includes/html-top.php";
 
             <figure>
                 <img src="images/fiona.jpg" alt="profile picture">
-                <figcaption>Lorem ipsum dolor sit amet.</figcaption>
+                <figcaption>Fiona Jones</figcaption>
             </figure>
 
             <h3>About</h3>
