@@ -16,7 +16,7 @@ include "includes/html-top.php";
 
 	?>
 
-			<div class="head">
+			<div class="head" id="indexHead">
 				<h1> Assignment 3: Updated Team Portfolio </h1>
 				<h2>Texans by Team Amsterdam</h2>
 
