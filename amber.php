@@ -7,29 +7,28 @@ include "includes/html-top.php";
 ?>
 
 <body>
-	<div class="container grid">
 
-		<?php 
-		
-		include "includes/header.php";
+	<?php 
 		
 		include "includes/nav.php";
-		
-		?>
+		include "includes/header.php";
 
-		<div class="about">
+	?>
+
+	<div class="head">
 			<h2>Amber Williams</h2>
+
+			<figure>
+				<img src="images/favphoto.jpg" alt="favphoto">
+				<figcaption>My favorite photo.</figcaption>
+			</figure>
+
 			<h3>About</h3>
 			<ul>
 				<li>Major: English: LMC</li>
 				<li>Year: Junior</li>
 				<li>Hometown: Weatherford, Texas </li>
 			</ul>
-
-			<figure>
-				<img src="images/favphoto.jpg" alt="favphoto">
-				<figcaption>My favorite photo.</figcaption>
-			</figure>
 
 			<p>
 				I love photography and art, but I am very shy about sharing them. I have designed several merchandises for clubs the past
@@ -49,6 +48,8 @@ include "includes/html-top.php";
 
 		</div>
 
+	<div class="container grid">
+		
 		<article class="content">
 
 			<h3>Education</h3>
@@ -85,10 +86,10 @@ include "includes/html-top.php";
 
 		</article>
 
-		<?php include "includes/footer.php"; ?>
 	</div>
 	<!--.container -->
 	<?php include "includes/scripts.php"; ?>
+	<?php include "includes/footer.php"; ?>
 </body>
 
 
