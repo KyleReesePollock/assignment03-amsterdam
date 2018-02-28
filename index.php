@@ -19,6 +19,15 @@ include "includes/html-top.php";
 	<div class="head">
 		<h1> Assignment 3: Updated Team Portfolio </h1>
 		<h2>Texans by Team Amsterdam</h2>
+
+		<div id="container-slides">
+					<div class="slide showing">
+						<img src="images/texas.png" alt="Texan Flag">
+					</div>
+					<div class="slide">
+						<img src="images/dallas.jpg" alt="Dallas">
+					</div>
+				</div>
 	</div>
 
 	<div class="container">

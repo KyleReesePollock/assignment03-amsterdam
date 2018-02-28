@@ -11,3 +11,10 @@ Forked from https://github.com/mpatric3/inclass04-amsterdam
 ## Role of the Information Architect
 
 * Format the information retrieved from the
+
+
+
+Sources:
+
+Slideshow JS
+https://codepen.io/akdesign/pen/YWZErv
