@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 $page = "Home";
 
@@ -9,8 +9,8 @@ include "includes/html-top.php";
 <!-- Start of index/home page. Similarity between students is that their all from Texas  -->
 
 <body>
-	<?php 
-		
+	<?php
+
 		include "includes/nav.php";
 		include "includes/header.php";
 
@@ -62,7 +62,7 @@ include "includes/html-top.php";
 		</div>
 
 		<div>
-			<h2>Amber Willaims</h2>
+			<h2>Amber Williams</h2>
 			<figure class="firstfig">
 				<img src="images/favphoto.jpg" alt="new york">
 				<figcaption>New York City</figcaption>
