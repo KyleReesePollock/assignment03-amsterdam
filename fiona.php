@@ -7,18 +7,22 @@ include "includes/html-top.php";
 ?>
 
 <body>
-    <div class="container grid">
 
-        <?php 
-		
-		include "includes/header.php";
-		
-		include "includes/nav.php";
-		
-		?>
+    <?php 
+        
+        include "includes/nav.php";
+        include "includes/header.php";
 
-        <div class="about">
+    ?>
+
+    <div class="head">
             <h2>Fiona Jones</h2>
+
+            <figure>
+                <img src="images/fiona.jpg" alt="profile picture">
+                <figcaption>Lorem ipsum dolor sit amet.</figcaption>
+            </figure>
+
             <h3>About</h3>
             <ul>
                 <li>Major: Computer Science</li>
@@ -26,18 +30,15 @@ include "includes/html-top.php";
                 <li>Hometown: Woodlands, Texas </li>
             </ul>
 
-            <figure>
-                <img src="images/fiona.jpg" alt="profile picture">
-                <figcaption>Lorem ipsum dolor sit amet.</figcaption>
-            </figure>
-
             <p>My name is Fiona Jones and I am currently a junior in my third year at Rochester. I am currently majoring in
                 computer science with a focus in web development, studio arts with concentrations in digital art and photography,
                 as well as a small cluster of linguistics based around analysis of meaning. I am currently living in The
                 Woodlands, Texas and I have two other siblings, one who is currently in high school in the Woodlands and
                 another that currently attends New York University in New York City.
             </p>
-        </div>
+    </div>
+
+    <div class="container grid">
 
         <article class="content">
 
@@ -87,9 +88,10 @@ include "includes/html-top.php";
 
         </article>
 
-        <?php include "includes/footer.php"; ?>
     </div>
     <!--.container -->
+
+    <?php include "includes/footer.php"; ?>
 
     <?php include "includes/scripts.php"; ?>
 </body>
