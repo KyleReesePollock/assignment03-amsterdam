@@ -6,6 +6,7 @@
 	list-style-type: none;
 	margin: 0;
 	padding-left: 0;
+	margin-left: 70%;
 }
 
 .navbar li {
@@ -15,18 +16,18 @@
 .navbar a {
 	text-decoration: none;
 	display: block;
-	border: 1px solid #000;
-	padding: 0.5em 0.3em;
+	padding: 1em 1em;
+	color: #efefef;
 }
 
 .navbar a.is-current {
-	color: #ddd;
-	background-color: #aaa;
+	color: black;
+	background-color: #FFAE19;
 }
 
 .navbar li:hover {
 	color: #fff;
-	background-color: #000;
+	background-color: #FFAE19;
 }
 
 @media (max-width: 640px) {
@@ -36,4 +37,13 @@
 	.navbar {
 		margin-top: 30px;
 	}
+}
+
+.navbar {
+	background-color: rgba(0,0,75,.95);
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 1000;
 }
