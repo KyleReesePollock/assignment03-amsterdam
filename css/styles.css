@@ -44,6 +44,7 @@ header div a {
 	max-width: 1200px;
 	padding: 2em;
 	background-color: white;
+	padding-top: .25%;
 }
 
 .head {
@@ -52,6 +53,7 @@ header div a {
 	padding: 2em;
 	background-color: rgba(0, 0, 75, 0.81);
 	margin-top: 3.65%;
+	padding-top: .25%;
 	color: #e5e5e5;
 }
 
